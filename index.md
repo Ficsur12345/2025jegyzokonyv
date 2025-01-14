@@ -1,6 +1,6 @@
 # Tranzisztor műkődésének vizsgálata
 ---
-- Mérést végezte: Urbn Keve
+- Mérést végezte: Urbán Keve
 - Mérés helyszíne: V3 Labor 
 - Mérés ideje: 2025.01.07 
 - Csoport: 12.D/1
