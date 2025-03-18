@@ -1,4 +1,4 @@
-# Feszültség követő kapcsolás
+# inv muveleti erosito
 
 - A mérést végezte: Urbán Keve
 - A mérés helye: V3 labor
